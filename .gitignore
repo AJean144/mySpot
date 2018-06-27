@@ -1,0 +1,25 @@
+# See https://help.github.com/ignore-files/ for more about ignoring files.
+
+# dependencies
+node_modules
+packages/web/node_modules
+
+# testing
+packages/web/coverage
+
+# production
+packages/web/build
+
+# misc
+.vscode
+redis-stable.tar.gz
+redis-stable
+packages/web/.DS_Store
+packages/web/.env.local
+packages/web/.env.development.local
+packages/web/.env.test.local
+packages/web/.env.production.local
+
+packages/web/npm-debug.log*
+packages/web/yarn-debug.log*
+packages/web/yarn-error.log*
