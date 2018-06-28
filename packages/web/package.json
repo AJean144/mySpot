@@ -17,7 +17,8 @@
     "react-router-dom": "^4.3.1",
     "react-scripts-ts": "2.16.0",
     "yup": "^0.25.1",
-    "@mySpot/common": "1.0.0"
+    "@mySpot/common": "1.0.0",
+    "@mySpot/controller": "1.0.0"
   },
   "scripts": {
     "start": "react-scripts-ts start",
